@@ -20,6 +20,6 @@
 ---
 
 ## 🌐 **Connect with Me**
-[![LinkedIn](www.linkedin.com/in/KishorS2007)
+[![LinkedIn](www.linkedin.com/in/kishors123)
 
 
