@@ -20,6 +20,9 @@
 ---
 
 ## 🌐 **Connect with Me**
-[![LinkedIn](www.linkedin.com/in/kishors123)
+## Connect with Me 🌐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kishors123)
+
+
 
 
