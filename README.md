@@ -21,7 +21,7 @@
 
 
 ## Connect with Me 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/kishors123](https://www.linkedin.com/in/kishor-in/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)][(https://www.linkedin.com/in/kishor-in/)])
 
 
 
